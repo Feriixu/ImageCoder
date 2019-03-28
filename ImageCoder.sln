@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCoder", "ImageCoder\ImageCoder.csproj", "{12D113A7-287A-4A50-8B19-0F3D54B69C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12D113A7-287A-4A50-8B19-0F3D54B69C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12D113A7-287A-4A50-8B19-0F3D54B69C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12D113A7-287A-4A50-8B19-0F3D54B69C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12D113A7-287A-4A50-8B19-0F3D54B69C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A97E7777-4FCC-43B8-8A6D-EE929FDC991A}
+	EndGlobalSection
+EndGlobal
